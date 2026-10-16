@@ -1,0 +1,8 @@
+{
+  "name": "Argon Table Tennis 3D",
+  "description": "Juego 3D de Tenis de Mesa (Ping Pong) 1 contra 1 con reglamento oficial ITTF a 11 puntos, cinemática de palas y control de movimiento.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": []
+}
